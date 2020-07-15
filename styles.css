@@ -1,0 +1,64 @@
+html {
+    
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color:;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6292dd4-a865-4f55-bb9f-35161b5d0fef/d9eddon-dd6b9851-959c-44bf-969b-8a267e455bec.png/v1/fill/w_1024,h_2020,strp/pokedex_template_by_wofuru_d9eddon-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0yMDIwIiwicGF0aCI6IlwvZlwvYjYyOTJkZDQtYTg2NS00ZjU1LWJiOWYtMzUxNjFiNWQwZmVmXC9kOWVkZG9uLWRkNmI5ODUxLTk1OWMtNDRiZi05NjliLThhMjY3ZTQ1NWJlYy5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RZ3_y3CyUzHSTYbv6qGvYoNl8lVxniKFgrLVVQj7A4k");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: 20%;
+    background-attachment: scroll;
+}
+
+.wrapper {
+    background-color: transparent;
+    margin: 50px;
+    margin-top: 300px;
+}
+
+#results {
+    background-color:;
+}
+
+ul {
+    list-style-image: url("https://img.icons8.com/color/18/000000/pokeball--v1.png");
+    list-style-position: outside;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li {
+    width: fit-content;
+    margin: 5px;
+    margin-left: 50px;
+    position: relative; 
+}
+
+h2 {
+    margin-block-start: 0;
+    margin-block-end: 5px;
+}
+
+p {
+    margin-block-start: 0;
+    margin-block-end: 5px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.controls {
+    margin-top: 50px;
+}
+
+p.legalese {
+    vertical-align: bottom;
+    font-size: 12px;
+}
